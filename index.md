@@ -20,14 +20,19 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [](#header-3)Pengaturan plugin
+
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+<script type='text/javascript'>
+var LabelManga = '#';
+var LinkSitemap = '#';
+var LinkDownload = '#';
+var PrevChapter = '#';
+var NextChapter = '#';
+var OnGoingChapter = false; // true or false
+var CompletedChapter = false; // true or false
+</script>
 ```
 
 ```ruby
@@ -115,7 +120,11 @@ end
 </dl>
 
 ```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+<script src='https://rawgit.com/Animega-san/Blog/master/Manga%20Reader/Manga%20Reader%20ver%201.4.js'></script>
+```
+
+```
+<link rel='stylesheet' href='https://rawgit.com/Animega-san/Blog/master/Manga%20Reader/Manga%20Reader%20ver%201.4.css'>
 ```
 
 ```
