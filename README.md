@@ -1,1 +1,1 @@
-# Manga-Reader 1.4 for Blogger
+# Manga Reader 1.4 for Blogger
