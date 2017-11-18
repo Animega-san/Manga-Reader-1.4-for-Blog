@@ -24,7 +24,6 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 
 ```js
-<script type='text/javascript'>
 var LabelManga = '#';
 var LinkSitemap = '#';
 var LinkDownload = '#';
@@ -32,7 +31,6 @@ var PrevChapter = '#';
 var NextChapter = '#';
 var OnGoingChapter = false; // true or false
 var CompletedChapter = false; // true or false
-</script>
 ```
 
 ```ruby
