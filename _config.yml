@@ -1,4 +1,4 @@
 theme: jekyll-theme-cayman
-title: [Manga Reader]
-description: [Plugin untuk Blog bertemakan Manga Blogger]
-show_downloads : ["true"]
+title: Manga Reader
+description: Plugin untuk Blog bertemakan Manga Blogger
+show_downloads : true
