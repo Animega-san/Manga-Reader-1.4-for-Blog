@@ -1,5 +1,7 @@
 /* Init*/
-.main-content :first-child{margin:0!important}
+.main-content :first-child{margin:0}
+.site-footer-owner{float:left}
+.site-footer-credits{float:right}
 
 /* Homepage */
 .active-manga{background:#f6f6f6;font-weight:bold}
@@ -12,7 +14,7 @@
 .right-manga{float:right;display:flex}
 .loading {background: url(https://4.bp.blogspot.com/-hPQxVkSXAGs/WhAUmcXltAI/AAAAAAAACMA/-efwRtnmExIC-0MATcjzSS1BuYhR28lEQCLcBGAs/s1600/loading-manga.gif) no-repeat 50% 160px}
 .sitemap-manga{margin:auto 10px}
-.show-manga img{margin:15px auto}
+.show-manga img{margin:15px auto!important}
 
 /* Bottom */
 .back-to-top{padding:0 20px!important;margin:0 5px}
