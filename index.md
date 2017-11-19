@@ -6,6 +6,17 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 
+<link href='https://animegasan.github.io/Manga-Reader/css/Manga%20Reader.css' rel='stylesheet'>
+<script src='https://animegasan.github.io/Manga-Reader/js/Manga%20Reader.js'></script>
+<script type='text/javascript'>
+var LabelManga = 'Tensei shitara Slime Datta Ken';
+var LinkSitemap = 'https://animegasan.blogspot.co.id/p/tensei-shitara-slime-datta-ken.html';
+var LinkDownload = 'https://www.solidfiles.com/v/LGM2x7Aqav525';
+var PrevChapter = 'https://animegasan.blogspot.co.id/2017/11/Tensei-shitara-Slime-Datta-Ken-Chapter-019.html';
+var NextChapter = 'https://animegasan.blogspot.co.id/2017/11/Tensei-shitara-Slime-Datta-Ken-Chapter-021.html';
+var OnGoingChapter = true;
+var CompletedChapter = false;
+</script>
 <div class='cover-manga'>
 	<span>Tensei shitara Slime Datta Ken Chapter 20 Volume 3</span>
 	<img src='https://3.bp.blogspot.com/-9zRTq_z36iY/WhA3MeeOcgI/AAAAAAAACMs/OEumDAOzzTc4152DIfX25quzDu0pcBqlQCLcBGAs/s1600/Tensei%2Bshitara%2BSlime%2BDatta%2BKen%2BVolume%2B003.jpg'/>
