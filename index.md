@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
-
+<div class='sample'>
 <link href='https://animegasan.github.io/Manga-Reader/css/Manga%20Reader.css' rel='stylesheet'>
 <script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
 <script src='https://animegasan.github.io/Manga-Reader/js/sample.js'></script>
@@ -18,7 +18,13 @@ var NextChapter = 'https://animegasan.blogspot.co.id/2017/11/Tensei-shitara-Slim
 var OnGoingChapter = false;
 var CompletedChapter = false;
 </script>
-<h1 class='post-title.entry-title'>Tensei shitara Slime Datta Ken Chapter 20</h1>
+<html>
+<body>
+<h1 class="post-title entry-title">
+Tensei shitara Slime Datta Ken Chapter 20
+</h1>
+</body>
+</html>
 <div class='cover-manga'>
 	<span>Tensei shitara Slime Datta Ken Chapter 20 Volume 3</span>
 	<img src='https://3.bp.blogspot.com/-9zRTq_z36iY/WhA3MeeOcgI/AAAAAAAACMs/OEumDAOzzTc4152DIfX25quzDu0pcBqlQCLcBGAs/s1600/Tensei%2Bshitara%2BSlime%2BDatta%2BKen%2BVolume%2B003.jpg'/>
@@ -59,6 +65,7 @@ var CompletedChapter = false;
     <li><a href='https://2.bp.blogspot.com/-oLhWTqEwORo/WhCADyfP4HI/AAAAAAAACeQ/8s9B9V5g8l4GJMLpUZ4CEbQxAUrjOsFagCLcBGAs/s1600/33.jpg'>Page 33</a></li>
     <li><a href='https://2.bp.blogspot.com/-WermUKBebTo/WhB_9nMdAQI/AAAAAAAACeM/wQHOCl646PYBqEC5UNsTTd6W85l1T9usACLcBGAs/s1600/34.jpg'>Page 34</a></li>
 </ul>
+</div>
 
 There should be whitespace between paragraphs.
 
