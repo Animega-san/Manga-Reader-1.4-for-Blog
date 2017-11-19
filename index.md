@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
 <div class='sample'>
-<link href='https://animegasan.github.io/Manga-Reader/css/Manga%20Reader.css' rel='stylesheet'>
+<link href='https://animegasan.github.io/Manga-Reader/css/sample.css' rel='stylesheet'>
 <script src='//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js'></script>
 <script src='https://animegasan.github.io/Manga-Reader/js/sample.js'></script>
 <script type='text/javascript'>
