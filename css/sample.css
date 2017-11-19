@@ -1,5 +1,7 @@
 /* Init*/
 .main-content :first-child{margin:0}
+a{color:#cf2f1e}
+a:hover{text-decoration:none}
 .site-footer-owner{float:left}
 .site-footer-credits{float:right}
 
